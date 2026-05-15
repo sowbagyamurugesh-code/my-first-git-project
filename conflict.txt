@@ -1,1 +1,1 @@
-Create a merge conflict situation. Resolve the conflict and merge the changes between the branches. 
+This is merged content from master and test branch
